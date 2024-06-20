@@ -46,7 +46,7 @@ A Simple image encryption tool using pixel manipulation
         print(f"An error occurred: {e}")
 
 # Example usage
-    image_path = r"C:\Users\Ajaymohan\Downloads\300_ROG Zephyrus S17.jpg"  # Replace with the path to your image
+    image_path = r"C:\Users\Ajaymohan\Downloads\couragrthecowardlydog.jpeg"  # Replace with the path to your image
     encryption_key = 42
 
 # Encrypt the image
